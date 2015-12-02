@@ -13,3 +13,5 @@ Take a look at these resources:
 - [JavaScript Video Player Feature Chart](http://praegnanz.de/html5video/)
 - [Slides 5 - HTML5 Semantic Elements](https://docs.google.com/presentation/d/1tl0aB0EUOhLMi1Xr19UCAUTCY20FRqEDv-oDGg2cTkg/edit?usp=sharing)
 - [Learn about HTML5 Semantic Elements](http://diveintohtml5.info/semantics.html#new-elements)
+
+<a href='https://learn.co/lessons/hs-html5-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
